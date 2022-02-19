@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DetailYou</string>
+    <string name="web_client_id">15975858412-sr334dtkrpb9s5q68ehlbukimcr1hiaq.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">1791543971054685</string>
+    <string name="fb_login_protocol_scheme">fb1791543971054685</string>
+
+
+</resources>
